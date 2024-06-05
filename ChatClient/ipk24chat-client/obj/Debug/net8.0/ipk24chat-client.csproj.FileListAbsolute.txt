@@ -1,0 +1,14 @@
+/home/boriss/RiderProjects/ChatClient/ipk24chat-client/bin/Debug/net8.0/ipk24chat-client
+/home/boriss/RiderProjects/ChatClient/ipk24chat-client/bin/Debug/net8.0/ipk24chat-client.deps.json
+/home/boriss/RiderProjects/ChatClient/ipk24chat-client/bin/Debug/net8.0/ipk24chat-client.runtimeconfig.json
+/home/boriss/RiderProjects/ChatClient/ipk24chat-client/bin/Debug/net8.0/ipk24chat-client.dll
+/home/boriss/RiderProjects/ChatClient/ipk24chat-client/bin/Debug/net8.0/ipk24chat-client.pdb
+/home/boriss/RiderProjects/ChatClient/ipk24chat-client/obj/Debug/net8.0/ipk24chat-client.GeneratedMSBuildEditorConfig.editorconfig
+/home/boriss/RiderProjects/ChatClient/ipk24chat-client/obj/Debug/net8.0/ipk24chat-client.AssemblyInfoInputs.cache
+/home/boriss/RiderProjects/ChatClient/ipk24chat-client/obj/Debug/net8.0/ipk24chat-client.AssemblyInfo.cs
+/home/boriss/RiderProjects/ChatClient/ipk24chat-client/obj/Debug/net8.0/ipk24chat-client.csproj.CoreCompileInputs.cache
+/home/boriss/RiderProjects/ChatClient/ipk24chat-client/obj/Debug/net8.0/ipk24chat-client.dll
+/home/boriss/RiderProjects/ChatClient/ipk24chat-client/obj/Debug/net8.0/refint/ipk24chat-client.dll
+/home/boriss/RiderProjects/ChatClient/ipk24chat-client/obj/Debug/net8.0/ipk24chat-client.pdb
+/home/boriss/RiderProjects/ChatClient/ipk24chat-client/obj/Debug/net8.0/ipk24chat-client.genruntimeconfig.cache
+/home/boriss/RiderProjects/ChatClient/ipk24chat-client/obj/Debug/net8.0/ref/ipk24chat-client.dll
